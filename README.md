@@ -53,6 +53,10 @@
 
 
 ## Output:
+<img width="1919" height="990" alt="Screenshot 2026-05-24 161856" src="https://github.com/user-attachments/assets/0b88a493-5b99-4a96-a6f7-f48cf3ec605f" />
+<img width="1885" height="948" alt="Screenshot 2026-05-24 161912" src="https://github.com/user-attachments/assets/0bf1dc0a-d1e1-4c7f-af4d-668d67442dae" />
+
+
 <img width="1917" height="1014" alt="Screenshot 2026-05-24 161214" src="https://github.com/user-attachments/assets/bad8ef13-a016-49eb-8838-6961cef0ae2e" />
 
 <img width="1919" height="997" alt="Screenshot 2026-05-24 161233" src="https://github.com/user-attachments/assets/817ec553-0afa-4e5f-9504-8c653bd53c86" />
