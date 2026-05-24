@@ -53,10 +53,13 @@
 
 
 ## Output:
+<img width="1917" height="1014" alt="Screenshot 2026-05-24 161214" src="https://github.com/user-attachments/assets/bad8ef13-a016-49eb-8838-6961cef0ae2e" />
+
+<img width="1919" height="997" alt="Screenshot 2026-05-24 161233" src="https://github.com/user-attachments/assets/817ec553-0afa-4e5f-9504-8c653bd53c86" />
 
 
-### Name:
-### Register Number: 
+### Name:LAVANYA G
+### Register Number: 212225230148
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
